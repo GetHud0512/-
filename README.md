@@ -6,9 +6,7 @@
 
 ```)
 #include <stdio.h>
-
 #include <windows.h>
-
 main() {
 	int x,y,z,s=103,p,u,m[10][10]={0};
 	char o[7][5]={"  ","人","点","汄","箱","墙","湘"};
